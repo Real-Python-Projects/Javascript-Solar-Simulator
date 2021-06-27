@@ -1,5 +1,3 @@
-// Copyright (c) 2013, Taehoon Kim.
-// Highly inspired by a solar system visualization of Dart project
 
 var renderTime;
 var fpsAverage;
